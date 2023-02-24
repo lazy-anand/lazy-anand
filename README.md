@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lazy-anand&label=Profile%20views&color=0e75b6&style=flat" alt="lazy-anand" /> </p>
 
-- 🔭 I’m currently working on **IBM**
+- 🔭 I’m currently working at **IBM**
 
 - 🌱 I’m currently working on **Setting up infra using Terraform over IBM Cloud**
 
